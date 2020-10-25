@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WSR</string>
+    <string name="title">WorldSkills Bank</string>
+    <string name="banks">Отделения и банкоматы</string>
+    <string name="value">Курсы валют</string>
+    <string name="EUR">EUR</string>
+    <string name="USD">USD</string>
+    <string name="go_in">Войти</string>
+    <string name="work">Открыто</string>
+    <string name="not_work">Закрыто</string>
+    <string name="time">Часы работы</string>
+</resources>
